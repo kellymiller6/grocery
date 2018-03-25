@@ -1,6 +1,6 @@
 # Wish List
 
-Keeping track of the things you want is hard. What if you really wanted an inflatable dinosaur costume but worried that you'd forget about it because you didn't "need" it. Luckily, Wish List is here for you.
+Keeping track of the things you need at the store is hard. What if you really needed a gallon of milk but you see an inflatable dinosaur costume and get that instead. Luckily, Grocery List is here for you.
 
 ## Specification
 

@@ -19,7 +19,7 @@ body, input {
     padding: 1em;
     margin: 2em;
     height: 175px;
-    background-color: #62ECFF;
+    background-color: #62ffc4;
     border: 1px solid rgb(49, 156, 171);
     box-shadow: 1px 1px 1px 0px rgba(4, 15, 16, 0.5);
 }
@@ -30,7 +30,7 @@ body, input {
 
 .new-item-form input {
     display: block;
-    background-color: rgb(71, 220, 240);
+    background-color: #cfffed;
     border:  none;
     margin-bottom: 10px;
     width: 100%;
@@ -47,7 +47,7 @@ body, input {
 input[type="submit"], button {
     outline: none;
     margin-top: 1em;
-    background-color: rgb(71, 220, 240);
+    background-color: #cfffed;
     border:  none;
 }
 
